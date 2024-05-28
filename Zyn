@@ -1154,7 +1154,6 @@ function Library:Init(options)
 	return GUI
 end
 
-local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/Bdbdhdbdbdhhffh8484/Zyn/main/Zyn'))()
 local lib = Library:Init{}
 
 local t1 = lib:NewTab{name = "Visuals"}
